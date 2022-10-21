@@ -51,7 +51,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className="container mx-auto flex min-h-screen flex-col items-center justify-center p-4 dark:bg-gray-700">
-        <div className="">Upload</div>
+        <div className="">Upload1</div>
         <section>
           <div
             {...getRootProps({
